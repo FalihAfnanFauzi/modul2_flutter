@@ -42,8 +42,10 @@ migrate_working_dir/
 # Coverage
 coverage/
 
-# AI lab folder (excluded from final submission repo)
+# AI lab and Soal 2 (separate repo)
 navigasi_flutter_ai_707012400017/
+tubes_literaikapi_707012400017/
+/screenshots_soal2/
 
 # Root local reports, scripts, and media (do not push to repo)
 /*.pdf
@@ -52,3 +54,4 @@ navigasi_flutter_ai_707012400017/
 /*.jpg
 /*.jpeg
 /screenshots/
+
